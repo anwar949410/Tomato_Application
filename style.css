@@ -1,0 +1,49 @@
+.button_1 button,.button_2 button,.button_3 button {
+
+background-color: forestgreen;
+color: white;
+border-radius: 10px;
+
+}
+
+.button_4 button ,.button_5 button , .button_6 button{
+
+
+
+    background-color: forestgreen;
+    color: white;
+    border-radius: 10px;
+
+}
+
+section {
+display: flex;
+justify-content: space-between;
+
+background-color:aliceblue;
+
+}
+
+
+.red_1 h6 ,.red_2 h6 ,.red_3 h6 ,.red_4 h6{
+
+opacity:0.5 ;
+
+
+}
+
+
+
+button:hover{
+
+background-color:orange;
+
+}
+
+img:hover{
+
+opacity: 0.2;
+
+box-shadow: 10px 10px green;
+
+}
